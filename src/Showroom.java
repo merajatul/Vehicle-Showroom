@@ -80,7 +80,7 @@ public class Showroom {
 				
 				}
 			if(vehicleList.get(index).vehicleType == "sports") {
-				numberOfVisitors = numberOfVisitors + 20;
+				numberOfVisitors = numberOfVisitors - 20;
 			}
 			vehicleList.remove(index);
 			System.out.println("Vehicle Removed!!\n");

@@ -14,7 +14,7 @@ public class Main {
 			System.out.println("What would you like to do?");
 			System.out.println("----------------------------------------------------------------");
 			System.out.println("1. Add a vehicle.");
-			System.out.println("2. Remove a Vehicle");
+			System.out.println("2. Remove a vehicle");
 			System.out.println("3. Show vehicle list with details");
 			System.out.println("4. Show vehicle list with expected visitors");
 			System.out.println("5. Exit program.\n\n");
